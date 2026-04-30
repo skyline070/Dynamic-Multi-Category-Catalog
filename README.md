@@ -60,29 +60,30 @@ The app displays multiple categories and items with fully dynamic rendering, sup
 src/
  
  ├── components/
- │       ├── CategorySection.jsx
  
- │    ├── ItemCard.jsx
+│      ├── CategorySection.jsx
  
- │    ├── SkeletonCard.jsx
+│      ├── ItemCard.jsx
  
- │    ├── Navbar.jsx
+│      ├── SkeletonCard.jsx
  
- ├── pages/
+│      ├── Navbar.jsx
  
- │    ├── Home.jsx
+├── pages/
  
- │    ├── Details.jsx
+│      ├── Home.jsx
  
- │    ├── Favorites.jsx
+│      ├── Details.jsx
  
- ├── data/
+│      ├── Favorites.jsx
  
- │    ├── data.json
+├── data/
  
- ├── App.jsx
+│    ├── data.json
  
- ├── main.jsx
+├── App.jsx
+ 
+├── main.jsx
 
 
 
