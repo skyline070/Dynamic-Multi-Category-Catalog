@@ -56,7 +56,6 @@ The app displays multiple categories and items with fully dynamic rendering, sup
 - Data Source: JSON / Mock API
 
 📂 Folder Structure
-
 src/
  ├── components/
  │    ├── CategorySection.jsx
