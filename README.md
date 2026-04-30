@@ -60,8 +60,7 @@ The app displays multiple categories and items with fully dynamic rendering, sup
 src/
  
  ├── components/
- 
- │    ├── CategorySection.jsx
+ │       ├── CategorySection.jsx
  
  │    ├── ItemCard.jsx
  
