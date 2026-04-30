@@ -56,33 +56,49 @@ The app displays multiple categories and items with fully dynamic rendering, sup
 - Data Source: JSON / Mock API
 
 📂 Folder Structure
+
 src/
+ 
  ├── components/
+ 
  │    ├── CategorySection.jsx
+ 
  │    ├── ItemCard.jsx
+ 
  │    ├── SkeletonCard.jsx
+ 
  │    ├── Navbar.jsx
+ 
  ├── pages/
+ 
  │    ├── Home.jsx
+ 
  │    ├── Details.jsx
+ 
  │    ├── Favorites.jsx
+ 
  ├── data/
+ 
  │    ├── data.json
+ 
  ├── App.jsx
+ 
  ├── main.jsx
+
+
 
 ⚙️ Installation & Setup
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/your-username/catalog-app.git
 
-# Navigate to project
+## Navigate to project
 cd catalog-app
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Run development server
+## Run development server
 npm run dev
 
 🧠 Approach
