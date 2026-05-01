@@ -6,7 +6,7 @@ The app displays multiple categories and items with fully dynamic rendering, sup
 
 🚀 Live Demo
 
-👉 [Add your deployed link here – Vercel / Netlify]
+👉 dynamic-multi-category-catalog-lake.vercel.app
 
 📌 Features
 
