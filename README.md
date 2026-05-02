@@ -61,25 +61,25 @@ src/
  
  ├── components/
  
-│           ├── CategorySection.jsx
+│  ├── CategorySection.jsx
  
-│           ├── ItemCard.jsx
+│  ├── ItemCard.jsx
  
-│           ├── SkeletonCard.jsx
+│  ├── SkeletonCard.jsx
  
-│           ├── Navbar.jsx
+│  ├── Navbar.jsx
  
 ├── pages/
  
-│           ├── Home.jsx
+│  ├── Home.jsx
  
-│           ├── Details.jsx
+│  ├── Details.jsx
  
-│           ├── Favorites.jsx
+│  ├── Favorites.jsx
  
 ├── data/
  
-│           ├── data.json
+│  ├── data.json
  
 ├── App.jsx
  
